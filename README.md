@@ -29,7 +29,7 @@ O curso aborda os fundamentos e técnicas avançadas do NumPy, uma biblioteca es
    ```
 
 ## Progresso
-- [✓] Módulo 1: Introdução ao NumPy
-- [✓] Módulo 2: Operações com Arrays
+- [x] Módulo 1: Introdução ao NumPy
+- [x] Módulo 2: Operações com Arrays
 - [ ] Módulo 3: Análise de Dados
 - [ ] Módulo 4: Projeto Final
