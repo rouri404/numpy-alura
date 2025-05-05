@@ -17,7 +17,7 @@ O curso aborda os fundamentos e técnicas avançadas do NumPy, uma biblioteca es
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/rouri/numpy-alura.git
+   git clone https://github.com/rouri404/numpy-alura.git
    ```
 2. Instale as dependências:
    ```bash
